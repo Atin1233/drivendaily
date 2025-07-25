@@ -205,7 +205,7 @@
           </div>
           <div class="collapse-content">
             <p class="font-body">
-              Yes! We offer 50% student discounts with valid ID verification. Family plans (2+ members) get 30% off. <a href="/contact_us" class="link">Contact us</a> for more details.
+              We don't currently offer student or family discounts. All our plans are individually priced at the rates shown above.
             </p>
           </div>
         </div>
