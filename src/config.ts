@@ -1,5 +1,5 @@
-export const WebsiteName: string = "SaaS Starter"
-export const WebsiteBaseUrl: string = "https://saasstarter.work"
+export const WebsiteName: string = "Driven Daily"
+export const WebsiteBaseUrl: string = "https://drivendaily.com"
 export const WebsiteDescription: string =
-  "Open source, fast, and free to host SaaS template. Built with SvelteKit, Supabase, Stripe, Tailwind, DaisyUI, and Postgres"
+  "Progress, One Day at a Time. Your daily source for fitness fundamentals, easy nutrition, mindset motivation, and wellness habits that actually stick."
 export const CreateProfileStep: boolean = true
