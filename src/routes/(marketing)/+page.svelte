@@ -233,65 +233,40 @@
   <div class="hero-content text-center py-12">
     <div class="max-w-xl">
       <div
-        class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mb-3 md:mb-7 pb-1"
+        class="text-xl md:text-3xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent mb-3 md:mb-7 pb-1 font-heading"
       >
-        SaaS Starter Demo
+        Progress, One Day at a Time
       </div>
 
       <div
-        class="text-4xl md:text-6xl font-bold px-2"
+        class="text-4xl md:text-6xl font-bold px-2 font-heading"
         style="line-height: 1.2;"
       >
-        The
+        Become the
         <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >open source</span
-        >,
+          class="underline decoration-accent decoration-4 md:decoration-[6px]"
+          >Best You</span
+        >.
         <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >fast</span
-        >, and
-        <span
-          class="underline decoration-secondary decoration-4 md:decoration-[6px]"
-          >free to host</span
-        >
-        <span> SaaS template</span>
+          class="underline decoration-accent decoration-4 md:decoration-[6px]"
+          >Driven Daily</span
+        >.
       </div>
-      <div class="mt-6 md:mt-10 text-sm md:text-lg">
-        Built with <a
-          href="https://kit.svelte.dev"
-          class="link font-bold"
-          target="_blank">SvelteKit</a
-        >,
-        <a href="https://supabase.com" class="link font-bold" target="_blank"
-          >Supabase</a
-        >,
-        <a href="https://stripe.com" class="link font-bold" target="_blank"
-          >Stripe</a
-        >,
-        <a href="https://tailwindcss.com" class="link font-bold" target="_blank"
-          >Tailwind</a
-        >,
-        <a href="https://daisyui.com" class="link font-bold" target="_blank"
-          >DaisyUI</a
-        >, and
-        <a
-          href="https://www.postgresql.org"
-          class="link font-bold"
-          target="_blank">Postgres</a
-        >
+      <div class="mt-6 md:mt-10 text-sm md:text-lg font-body">
+        Your daily source for
+        <span class="font-semibold text-primary">fitness fundamentals</span>,
+        <span class="font-semibold text-primary">easy nutrition</span>,
+        <span class="font-semibold text-primary">mindset motivation</span>, and
+        <span class="font-semibold text-primary">wellness habits</span> that actually stick.
       </div>
       <div
         class="mt-6 md:mt-4 flex flex-row flex-wrap gap-4 place-content-center"
       >
-        <a href="https://github.com/CriticalMoments/CMSaasStarter">
-          <button class="btn btn-primary px-6">★ us on Github</button>
+        <a href="/blog">
+          <button class="btn btn-primary px-6 font-heading">Start Your Journey</button>
         </a>
-        <a
-          href="https://github.com/CriticalMoments/CMSaasStarter/tree/main#saas-starter"
-        >
-          <button class="btn btn-outline btn-primary px-6">Read the Docs</button
-          >
+        <a href="/pricing">
+          <button class="btn btn-outline btn-primary px-6 font-heading">Get The Tools</button>
         </a>
       </div>
     </div>
