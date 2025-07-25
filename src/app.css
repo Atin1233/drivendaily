@@ -69,23 +69,89 @@
   }
 }
 
-/* Typography */
+/* Typography - Professional Poppins-first approach */
+* {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+/* Use Poppins as primary font for all text */
+body, html {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 400;
+}
+
+/* All headings use Poppins with appropriate weights */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 600;
+}
+
+/* Buttons and interactive elements */
+.btn, button {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+}
+
+/* Navigation elements */
+nav, .navbar, .menu {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+}
+
+/* Form elements */
+input, textarea, select {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+/* Cards and components */
+.card, .card-title, .card-body {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+/* Footer */
+.footer {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+/* Links */
+a {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+/* Utility classes for font variations */
 .font-heading {
   font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 600;
 }
 
 .font-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-}
-
-/* Apply default body font */
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-}
-
-/* Apply heading font to headings */
-h1, h2, h3, h4, h5, h6, .font-bold {
   font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 400;
+}
+
+.font-light {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 300;
+}
+
+.font-medium {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 500;
+}
+
+.font-semibold {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 600;
+}
+
+.font-bold {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 700;
+}
+
+.font-extrabold {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+  font-weight: 800;
 }
 
 a {
