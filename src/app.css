@@ -69,6 +69,25 @@
   }
 }
 
+/* Typography */
+.font-heading {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
+.font-body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Apply default body font */
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Apply heading font to headings */
+h1, h2, h3, h4, h5, h6, .font-bold {
+  font-family: 'Poppins', system-ui, -apple-system, sans-serif;
+}
+
 a {
   @apply cursor-pointer;
 }
