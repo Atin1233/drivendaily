@@ -183,7 +183,7 @@
           </div>
           <div class="collapse-content">
             <p class="font-body">
-              We offer a 7-day free trial for all plans so you can explore the full Driven Daily experience. No credit card required to start.
+              We don't offer a free trial, but you can cancel your subscription at any time. All plans are month-to-month with no long-term commitment required.
             </p>
           </div>
         </div>
