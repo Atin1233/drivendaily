@@ -88,16 +88,14 @@
   <footer
     class="footer md:footer-horizontal p-10 gap-x-48 lg:gap-x-64 xl:gap-x-96 place-content-center text-base"
   >
-    <nav>
-      <span class="footer-title opacity-80">Explore</span>
-      <a class="link link-hover mb-1" href="/">Overview</a>
-      <a class="link link-hover my-1" href="/pricing">Pricing</a>
-      <a class="link link-hover my-1" href="/blog">Blog</a>
-      <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
-      <a
-        class="link link-hover my-1"
-        href="https://github.com/CriticalMoments/CMSaasStarter">Github</a
-      >
+    <nav class="flex flex-col items-center">
+      <span class="footer-title opacity-80 mb-3">Explore</span>
+      <div class="flex flex-wrap gap-x-8 gap-y-2 justify-center">
+        <a class="link link-hover" href="/">Overview</a>
+        <a class="link link-hover" href="/pricing">Pricing</a>
+        <a class="link link-hover" href="/blog">Blog</a>
+        <a class="link link-hover" href="/contact_us">Contact Us</a>
+      </div>
     </nav>
 
   </footer>
