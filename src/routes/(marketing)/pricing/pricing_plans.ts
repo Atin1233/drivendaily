@@ -27,9 +27,7 @@ export const pricingPlans = [
     features: [
       "Everything in Starter, plus:",
       "3x weekly newsletter with exclusive content",
-      "Interactive meal planner & workout tracker (web-based)",
-      "Access to premium video workouts & guided meditation",
-      "Personalized progress dashboard with stats and streaks"
+      "Interactive meal planner & workout tracker (web-based)"
     ],
   },
   {
