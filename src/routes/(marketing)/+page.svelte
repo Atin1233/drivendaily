@@ -276,16 +276,16 @@
   <div class="pt-20 pb-8 px-7">
     <div class="max-w-lg mx-auto text-center">
       <div
-        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent pb-2"
+        class="text-3xl md:text-5xl font-bold bg-clip-text text-transparent bg-linear-to-r from-primary to-accent pb-2 font-heading"
       >
-        Explore the Features
+        Your Wellness Toolkit
       </div>
-      <div class="mt-4 text-xl font-bold">
-        And try them on this
+      <div class="mt-4 text-xl font-bold font-heading">
+        Everything you need for
         <span
-          class="underline decoration-secondary decoration-[3px] md:decoration-[4px]"
+          class="underline decoration-accent decoration-[3px] md:decoration-[4px]"
         >
-          fully functional demo
+          consistent progress
         </span>
       </div>
     </div>
